@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "47,043",
+      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Asatti Garden City",
+      "price": "66,353",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "35,853",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "./r3.png"
+    },
+    {
+      "name": "Crimson Bay",
+      "price": "44,043",
+      "detail": "5462 STONEBRIDGE DRIVE Whistler, British Columbia V8E0V9",
+      "image": "./luxary3.jpg"
+    },
+    {
+      "name": "The White House",
+      "price": "60,353",
+      "detail": "Pahwan Street XVI No.285, Cinangka, Sawangan",
+      "image": "./luxary2.jpg"
+    },
+    {
+      "name": "Blue Heights",
+      "price": "38,853",
+      "detail": "Ruko Residence Block A2, Lingkar Street, Ciracas",
+      "image": "./luxary4.jpg"
+    }
+  ]
+   
